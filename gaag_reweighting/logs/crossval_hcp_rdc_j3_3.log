@@ -1,0 +1,210 @@
+Lagrange multipliers initialized from zero
+Optimizing 60 data and 16080 samples. Theta=0.200000 
+CHI2 before optimization:  19.0636 
+Execution time: 2.07 seconds
+Minimization using L-BFGS-B successful (iterations:188)
+CHI2 after optimization:   4.4350 
+Fraction of effective frames:   0.0011 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=0.297470 
+CHI2 before optimization:  19.0636 
+Execution time: 1.59 seconds
+Minimization using L-BFGS-B successful (iterations:135)
+CHI2 after optimization:   4.4351 
+Fraction of effective frames:   0.0011 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=0.442443 
+CHI2 before optimization:  19.0636 
+Execution time: 0.91 seconds
+Minimization using L-BFGS-B successful (iterations:109)
+CHI2 after optimization:   4.4353 
+Fraction of effective frames:   0.0011 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=0.658069 
+CHI2 before optimization:  19.0636 
+Execution time: 0.61 seconds
+Minimization using L-BFGS-B successful (iterations:85)
+CHI2 after optimization:   4.4357 
+Fraction of effective frames:   0.0011 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=0.978780 
+CHI2 before optimization:  19.0636 
+Execution time: 0.50 seconds
+Minimization using L-BFGS-B successful (iterations:68)
+CHI2 after optimization:   4.4366 
+Fraction of effective frames:   0.0012 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=1.455791 
+CHI2 before optimization:  19.0636 
+Execution time: 0.41 seconds
+Minimization using L-BFGS-B successful (iterations:55)
+CHI2 after optimization:   4.4385 
+Fraction of effective frames:   0.0012 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=2.165273 
+CHI2 before optimization:  19.0636 
+Execution time: 0.35 seconds
+Minimization using L-BFGS-B successful (iterations:45)
+CHI2 after optimization:   4.4429 
+Fraction of effective frames:   0.0013 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=3.220524 
+CHI2 before optimization:  19.0636 
+Execution time: 0.29 seconds
+Minimization using L-BFGS-B successful (iterations:38)
+CHI2 after optimization:   4.4523 
+Fraction of effective frames:   0.0015 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=4.790053 
+CHI2 before optimization:  19.0636 
+Execution time: 0.21 seconds
+Minimization using L-BFGS-B successful (iterations:29)
+CHI2 after optimization:   4.4713 
+Fraction of effective frames:   0.0017 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=7.124496 
+CHI2 before optimization:  19.0636 
+Execution time: 0.17 seconds
+Minimization using L-BFGS-B successful (iterations:23)
+CHI2 after optimization:   4.5154 
+Fraction of effective frames:   0.0021 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=10.596634 
+CHI2 before optimization:  19.0636 
+Execution time: 0.17 seconds
+Minimization using L-BFGS-B successful (iterations:22)
+CHI2 after optimization:   4.6347 
+Fraction of effective frames:   0.0031 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=15.760926 
+CHI2 before optimization:  19.0636 
+Execution time: 0.14 seconds
+Minimization using L-BFGS-B successful (iterations:17)
+CHI2 after optimization:   4.9616 
+Fraction of effective frames:   0.0066 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=23.442046 
+CHI2 before optimization:  19.0636 
+Execution time: 0.12 seconds
+Minimization using L-BFGS-B successful (iterations:15)
+CHI2 after optimization:   5.6377 
+Fraction of effective frames:   0.0187 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=34.866576 
+CHI2 before optimization:  19.0636 
+Execution time: 0.11 seconds
+Minimization using L-BFGS-B successful (iterations:13)
+CHI2 after optimization:   6.6141 
+Fraction of effective frames:   0.0520 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=51.858876 
+CHI2 before optimization:  19.0636 
+Execution time: 0.10 seconds
+Minimization using L-BFGS-B successful (iterations:12)
+CHI2 after optimization:   7.8099 
+Fraction of effective frames:   0.1210 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=77.132408 
+CHI2 before optimization:  19.0636 
+Execution time: 0.10 seconds
+Minimization using L-BFGS-B successful (iterations:12)
+CHI2 after optimization:   9.2108 
+Fraction of effective frames:   0.2354 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=114.723050 
+CHI2 before optimization:  19.0636 
+Execution time: 0.10 seconds
+Minimization using L-BFGS-B successful (iterations:12)
+CHI2 after optimization:  10.8140 
+Fraction of effective frames:   0.3930 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=170.633570 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:11)
+CHI2 after optimization:  12.6021 
+Fraction of effective frames:   0.5774 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=253.792201 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:12)
+CHI2 after optimization:  14.4325 
+Fraction of effective frames:   0.7534 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=377.478364 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:11)
+CHI2 after optimization:  16.0001 
+Fraction of effective frames:   0.8791 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=561.443241 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:11)
+CHI2 after optimization:  17.1107 
+Fraction of effective frames:   0.9464 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=835.063787 
+CHI2 before optimization:  19.0636 
+Execution time: 0.10 seconds
+Minimization using L-BFGS-B successful (iterations:11)
+CHI2 after optimization:  17.8197 
+Fraction of effective frames:   0.9770 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=1242.033884 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:10)
+CHI2 after optimization:  18.2618 
+Fraction of effective frames:   0.9901 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=1847.341714 
+CHI2 before optimization:  19.0636 
+Execution time: 0.09 seconds
+Minimization using L-BFGS-B successful (iterations:10)
+CHI2 after optimization:  18.5406 
+Fraction of effective frames:   0.9957 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=2747.647592 
+CHI2 before optimization:  19.0636 
+Execution time: 0.07 seconds
+Minimization using L-BFGS-B successful (iterations:8)
+CHI2 after optimization:  18.7197 
+Fraction of effective frames:   0.9981 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=4086.719436 
+CHI2 before optimization:  19.0636 
+Execution time: 0.07 seconds
+Minimization using L-BFGS-B successful (iterations:8)
+CHI2 after optimization:  18.8356 
+Fraction of effective frames:   0.9992 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=6078.390765 
+CHI2 before optimization:  19.0636 
+Execution time: 0.07 seconds
+Minimization using L-BFGS-B successful (iterations:8)
+CHI2 after optimization:  18.9117 
+Fraction of effective frames:   0.9996 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=9040.707313 
+CHI2 before optimization:  19.0636 
+Execution time: 0.07 seconds
+Minimization using L-BFGS-B successful (iterations:8)
+CHI2 after optimization:  18.9621 
+Fraction of effective frames:   0.9998 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=13446.715073 
+CHI2 before optimization:  19.0636 
+Execution time: 0.07 seconds
+Minimization using L-BFGS-B successful (iterations:8)
+CHI2 after optimization:  18.9957 
+Fraction of effective frames:   0.9999 
+Warm start
+Optimizing 60 data and 16080 samples. Theta=20000.000000 
+CHI2 before optimization:  19.0636 
+Execution time: 0.06 seconds
+Minimization using L-BFGS-B successful (iterations:7)
+CHI2 after optimization:  19.0179 
+Fraction of effective frames:   1.0000 

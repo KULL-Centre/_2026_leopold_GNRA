@@ -1,0 +1,3 @@
+HCCH doesn't matter for calculation
+HCN 700 MHz = 16.44 T
+HCP 700 MHz = 16.44 T

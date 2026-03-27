@@ -1,0 +1,32 @@
+# Reading JCOUPLINGS data 
+# Reading 8 experimental data from bme_reweight/exp_ccr_HCP_loop_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_ccr_HCP_loop_bme.dat 
+# Using linear averaging 
+Initialized uniform weights 20100
+# Using no scaling 
+CHI2: 37.30535 
+RMSD: 9.16172 
+VIOLATIONS: 1 
+# Reading RDC data 
+# Reading 36 experimental data from bme_reweight/exp_rdc_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_rdc_bme.dat 
+# Using linear averaging 
+# Slope= -0.4074; Offset=  0.0000; r2=  0.1537 
+CHI2: 14.21055 
+RMSD: 5.65453 
+VIOLATIONS: 27 
+# Reading JCOUPLINGS data 
+# Reading 36 experimental data from bme_reweight/exp_j3_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_j3_bme.dat 
+# Using linear averaging 
+# Using no scaling 
+CHI2: 14.53195 
+RMSD: 3.00327 
+VIOLATIONS: 8 
+Lagrange multipliers initialized from zero
+Optimizing 80 data and 20100 samples. Theta=10.500000 
+CHI2 before optimization:  16.6647 
+Execution time: 0.31 seconds
+Minimization using L-BFGS-B successful (iterations:27)
+CHI2 after optimization:   3.9666 
+Fraction of effective frames:   0.0026 

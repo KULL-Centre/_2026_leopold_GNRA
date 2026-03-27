@@ -1,0 +1,17 @@
+# Reading JCOUPLINGS data 
+# Reading 23 experimental data from bme_reweight/exp_ccr_loop_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_ccr_loop_bme.dat 
+# Using linear averaging 
+Initialized uniform weights 20100
+# Using no scaling 
+CHI2: 19.52874 
+RMSD: 6.62870 
+VIOLATIONS: 6 
+# Reading RDC data 
+# Reading 37 experimental data from bme_reweight/exp_rdc_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_rdc_bme.dat 
+# Using linear averaging 
+# Slope=  0.5969; Offset=  0.0000; r2=  0.6765 
+CHI2: 7.19782 
+RMSD: 4.02431 
+VIOLATIONS: 8 

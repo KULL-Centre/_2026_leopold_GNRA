@@ -1,0 +1,799 @@
+ ASSI {   38}
+   (( segid "    " and resid 1    and name H3' ))
+   (( segid "    " and resid 1    and name H2' ))
+      2.220     0.620     0.620 peak    38 spectrum    1 weight  0.11000E+01 volume  0.11529E-01 ppm1      4.747 ppm2      4.939 CV     1
+ ASSI {   45}
+   (( segid "    " and resid 2    and name H3' ))
+   (( segid "    " and resid 3    and name H6  ))
+      2.940     1.080     1.080 peak    45 spectrum    1 weight  0.11000E+01 volume  0.30067E-02 ppm1      4.625 ppm2      7.728 CV     1
+ ASSI {   46}
+   (( segid "    " and resid 2    and name H5'1))
+   (( segid "    " and resid 3    and name H5  ))
+      4.000     2.000     2.000 peak    46 spectrum    1 weight  0.11000E+01 volume  0.11992E-02 ppm1      4.548 ppm2      5.314 CV     1
+ ASSI {   47}
+   (( segid "    " and resid 2    and name H5'2))
+   (( segid "    " and resid 2    and name H5'1))
+      1.830     0.420     0.420 peak    47 spectrum    1 weight  0.11000E+01 volume  0.19555E-01 ppm1      4.248 ppm2      4.554 CV     1
+ ASSI {   53}
+   (( segid "    " and resid 3    and name H3' ))
+   (( segid "    " and resid 4    and name H1' ))
+      4.370     2.390     2.130 peak    53 spectrum    1 weight  0.11000E+01 volume  0.64800E-03 ppm1      4.578 ppm2      5.968 CV     1
+ ASSI {   58}
+   (( segid "    " and resid 3    and name H5'1))
+   (( segid "    " and resid 2    and name H8  ))
+      4.070     2.070     2.070 peak    58 spectrum    1 weight  0.11000E+01 volume  0.81450E-03 ppm1      4.609 ppm2      7.597 CV     1
+ ASSI {   62}
+   (( segid "    " and resid 4    and name H2' ))
+   (( segid "    " and resid 5    and name H1' ))
+      3.270     1.330     1.330 peak    62 spectrum    1 weight  0.11000E+01 volume  0.13343E-02 ppm1      4.493 ppm2      5.383 CV     1
+ ASSI {   67}
+   (( segid "    " and resid 4    and name H5'2))
+   (( segid "    " and resid 4    and name H5'1))
+      1.860     0.430     0.430 peak    67 spectrum    1 weight  0.11000E+01 volume  0.17313E-01 ppm1      4.155 ppm2      4.586 CV     1
+ ASSI {   71}
+   (( segid "    " and resid 5    and name H2' ))
+   (( segid "    " and resid 5    and name H1' ))
+      2.380     0.710     0.710 peak    71 spectrum    1 weight  0.11000E+01 volume  0.91382E-02 ppm1      4.348 ppm2      5.382 CV     1
+ ASSI {   73}
+   (( segid "    " and resid 5    and name H2' ))
+   (( segid "    " and resid 6    and name H1' ))
+      3.410     1.450     1.450 peak    73 spectrum    1 weight  0.11000E+01 volume  0.11117E-02 ppm1      4.347 ppm2      5.671 CV     1
+ ASSI {   75}
+   (( segid "    " and resid 5    and name H3' ))
+   (( segid "    " and resid 5    and name H1' ))
+      3.860     1.870     1.870 peak    75 spectrum    1 weight  0.11000E+01 volume  0.85166E-03 ppm1      4.291 ppm2      5.385 CV     1
+ ASSI {   80}
+   (( segid "    " and resid 5    and name H5  ))
+   (( segid "    " and resid 6    and name H8  ))
+      4.530     2.570     1.970 peak    80 spectrum    1 weight  0.11000E+01 volume  0.25552E-03 ppm1      5.100 ppm2      7.631 CV     1
+ ASSI {   82}
+   (( segid "    " and resid 5    and name H6  ))
+   (( segid "    " and resid 4    and name H8  ))
+      4.890     2.990     1.610 peak    82 spectrum    1 weight  0.11000E+01 volume  0.33664E-03 ppm1      7.238 ppm2      8.045 CV     1
+ ASSI {   94}
+   (( segid "    " and resid 7    and name H2' ))
+   (( segid "    " and resid 7    and name H1' ))
+      2.970     1.100     1.100 peak    94 spectrum    1 weight  0.11000E+01 volume  0.27339E-02 ppm1      4.335 ppm2      5.599 CV     1
+ ASSI {   95}
+   (( segid "    " and resid 7    and name H2' ))
+   (( segid "    " and resid 7    and name H5  ))
+      4.120     2.130     2.130 peak    95 spectrum    1 weight  0.11000E+01 volume  0.87497E-03 ppm1      4.333 ppm2      5.640 CV     1
+ ASSI {  112}
+   (( segid "    " and resid 8    and name H1' ))
+   (( segid "    " and resid 9    and name H2  ))
+      4.550     2.590     1.950 peak   112 spectrum    1 weight  0.11000E+01 volume  0.24646E-03 ppm1      5.640 ppm2      7.937 CV     1
+ ASSI {  115}
+   (( segid "    " and resid 8    and name H3' ))
+   (( segid "    " and resid 8    and name H1' ))
+      3.930     1.930     1.930 peak   115 spectrum    1 weight  0.11000E+01 volume  0.84185E-03 ppm1      4.566 ppm2      5.640 CV     1
+ ASSI {  122}
+   (( segid "    " and resid 8    and name H5'2))
+   (( segid "    " and resid 8    and name H5'1))
+      2.090     0.540     0.540 peak   122 spectrum    1 weight  0.11000E+01 volume  0.89101E-02 ppm1      3.762 ppm2      3.871 CV     1
+ ASSI {  129}
+   (( segid "    " and resid 10   and name H2' ))
+   (( segid "    " and resid 11   and name H5  ))
+      3.570     1.590     1.590 peak   129 spectrum    1 weight  0.11000E+01 volume  0.12814E-02 ppm1      4.295 ppm2      5.130 CV     1
+ ASSI {  133}
+   (( segid "    " and resid 10   and name H5'2))
+   (( segid "    " and resid 10   and name H5'1))
+      1.780     0.400     0.420 peak   133 spectrum    1 weight  0.11000E+01 volume  0.21879E-01 ppm1      4.274 ppm2      4.350 CV     1
+ ASSI {  138}
+   (( segid "    " and resid 11   and name H3' ))
+   (( segid "    " and resid 11   and name H1' ))
+      3.980     1.980     1.980 peak   138 spectrum    1 weight  0.11000E+01 volume  0.69018E-03 ppm1      4.546 ppm2      5.564 CV     1
+ ASSI {  141}
+   (( segid "    " and resid 11   and name H4' ))
+   (( segid "    " and resid 11   and name H1' ))
+      3.250     1.320     1.320 peak   141 spectrum    1 weight  0.11000E+01 volume  0.15637E-02 ppm1      4.422 ppm2      5.564 CV     1
+ ASSI {  142}
+   (( segid "    " and resid 11   and name H5  ))
+   (( segid "    " and resid 10   and name H8  ))
+      4.600     2.650     1.900 peak   142 spectrum    1 weight  0.11000E+01 volume  0.25591E-03 ppm1      5.128 ppm2      7.830 CV     1
+ ASSI {  144}
+   (( segid "    " and resid 11   and name H5'1))
+   (( segid "    " and resid 11   and name H1' ))
+      4.060     2.060     2.060 peak   144 spectrum    1 weight  0.11000E+01 volume  0.53818E-03 ppm1      4.461 ppm2      5.565 CV     1
+ ASSI {  149}
+   (( segid "    " and resid 12   and name H1' ))
+   (( segid "    " and resid 13   and name H6  ))
+      5.190     3.370     1.310 peak   149 spectrum    1 weight  0.11000E+01 volume  0.31172E-03 ppm1      5.818 ppm2      7.666 CV     1
+ ASSI {  152}
+   (( segid "    " and resid 12   and name H5'2))
+   (( segid "    " and resid 12   and name H5'1))
+      1.820     0.410     0.410 peak   152 spectrum    1 weight  0.11000E+01 volume  0.19818E-01 ppm1      4.148 ppm2      4.528 CV     1
+ ASSI {  158}
+   (( segid "    " and resid 13   and name H2' ))
+   (( segid "    " and resid 14   and name H4' ))
+      3.710     1.720     1.720 peak   158 spectrum    1 weight  0.11000E+01 volume  0.10210E-02 ppm1      4.173 ppm2      4.416 CV     1
+ ASSI {  166}
+   (( segid "    " and resid 13   and name H5'2))
+   (( segid "    " and resid 13   and name H5'1))
+      1.940     0.470     0.470 peak   166 spectrum    1 weight  0.11000E+01 volume  0.13735E-01 ppm1      4.057 ppm2      4.541 CV     1
+ ASSI {  175}
+   (( segid "    " and resid 14   and name H5'1))
+   (( segid "    " and resid 13   and name H1' ))
+      3.160     1.250     1.250 peak   175 spectrum    1 weight  0.11000E+01 volume  0.84743E-03 ppm1      4.507 ppm2      5.470 CV     1
+ ASSI {    6}
+   (( segid "    " and resid 10   and name H3' ))
+   (( segid "    " and resid 11   and name H5  ))
+      3.400     1.440     1.440 peak     6 spectrum    1 weight  0.10000E+01 volume  0.80901E-03 ppm1      4.213 ppm2      5.127 CV     1
+ ASSI {   28}
+   (( segid "    " and resid 1    and name H2' ))
+   (( segid "    " and resid 1    and name H1' ))
+      2.370     0.700     0.700 peak    28 spectrum    1 weight  0.11000E+01 volume  0.68180E-02 ppm1      4.937 ppm2      5.821 CV     1
+ ASSI {   31}
+   (( segid "    " and resid 1    and name H2' ))
+   (( segid "    " and resid 2    and name H8  ))
+      2.470     0.760     0.760 peak    31 spectrum    1 weight  0.11000E+01 volume  0.47626E-02 ppm1      4.937 ppm2      7.596 CV     1
+ ASSI {   35}
+   (( segid "    " and resid 1    and name H4' ))
+   (( segid "    " and resid 1    and name H1' ))
+      2.530     0.800     0.800 peak    35 spectrum    1 weight  0.11000E+01 volume  0.50643E-02 ppm1      4.537 ppm2      5.821 CV     1
+ ASSI {   41}
+   (( segid "    " and resid 3    and name H1' ))
+   (( segid "    " and resid 4    and name H8  ))
+      4.460     2.480     2.040 peak    41 spectrum    1 weight  0.11000E+01 volume  0.38886E-03 ppm1      5.532 ppm2      8.041 CV     1
+ ASSI {   42}
+   (( segid "    " and resid 3    and name H2' ))
+   (( segid "    " and resid 3    and name H1' ))
+      2.270     0.650     0.650 peak    42 spectrum    1 weight  0.11000E+01 volume  0.89190E-02 ppm1      4.496 ppm2      5.532 CV     1
+ ASSI {   43}
+   (( segid "    " and resid 3    and name H2' ))
+   (( segid "    " and resid 4    and name H8  ))
+      2.200     0.600     0.600 peak    43 spectrum    1 weight  0.11000E+01 volume  0.10899E-01 ppm1      4.495 ppm2      8.043 CV     1
+ ASSI {   45}
+   (( segid "    " and resid 3    and name H4' ))
+   (( segid "    " and resid 3    and name H1' ))
+      2.990     1.120     1.120 peak    45 spectrum    1 weight  0.11000E+01 volume  0.17509E-02 ppm1      4.466 ppm2      5.532 CV     1
+ ASSI {   46}
+   (( segid "    " and resid 3    and name H5  ))
+   (( segid "    " and resid 3    and name H6  ))
+      2.240     0.630     0.630 peak    46 spectrum    1 weight  0.11000E+01 volume  0.89252E-02 ppm1      5.313 ppm2      7.726 CV     1
+ ASSI {   47}
+   (( segid "    " and resid 3    and name H5  ))
+   (( segid "    " and resid 4    and name H8  ))
+      4.330     2.340     2.170 peak    47 spectrum    1 weight  0.11000E+01 volume  0.25734E-03 ppm1      5.316 ppm2      8.046 CV     1
+ ASSI {   49}
+   (( segid "    " and resid 4    and name H2' ))
+   (( segid "    " and resid 4    and name H2  ))
+      3.770     1.770     1.770 peak    49 spectrum    1 weight  0.11000E+01 volume  0.43335E-03 ppm1      4.492 ppm2      7.391 CV     1
+ ASSI {   50}
+   (( segid "    " and resid 4    and name H2' ))
+   (( segid "    " and resid 5    and name H6  ))
+      2.260     0.640     0.640 peak    50 spectrum    1 weight  0.11000E+01 volume  0.80228E-02 ppm1      4.492 ppm2      7.238 CV     1
+ ASSI {   51}
+   (( segid "    " and resid 4    and name H3' ))
+   (( segid "    " and resid 4    and name H1' ))
+      3.690     1.700     1.700 peak    51 spectrum    1 weight  0.11000E+01 volume  0.65439E-03 ppm1      4.676 ppm2      5.966 CV     1
+ ASSI {   54}
+   (( segid "    " and resid 4    and name H5'2))
+   (( segid "    " and resid 4    and name H2' ))
+      3.720     1.730     1.730 peak    54 spectrum    1 weight  0.11000E+01 volume  0.13097E-02 ppm1      4.152 ppm2      4.488 CV     1
+ ASSI {   57}
+   (( segid "    " and resid 5    and name H1' ))
+   (( segid "    " and resid 5    and name H6  ))
+      3.350     1.400     1.400 peak    57 spectrum    1 weight  0.11000E+01 volume  0.91542E-03 ppm1      5.382 ppm2      7.238 CV     1
+ ASSI {   59}
+   (( segid "    " and resid 5    and name H2' ))
+   (( segid "    " and resid 5    and name H6  ))
+      3.130     1.220     1.220 peak    59 spectrum    1 weight  0.11000E+01 volume  0.16785E-02 ppm1      4.349 ppm2      7.239 CV     1
+ ASSI {   62}
+   (( segid "    " and resid 5    and name H3' ))
+   (( segid "    " and resid 5    and name H6  ))
+      2.520     0.790     0.790 peak    62 spectrum    1 weight  0.11000E+01 volume  0.42651E-02 ppm1      4.283 ppm2      7.238 CV     1
+ ASSI {   65}
+   (( segid "    " and resid 5    and name H5  ))
+   (( segid "    " and resid 5    and name H6  ))
+      2.270     0.650     0.650 peak    65 spectrum    1 weight  0.11000E+01 volume  0.78997E-02 ppm1      5.101 ppm2      7.239 CV     1
+ ASSI {   66}
+   (( segid "    " and resid 5    and name H5'2))
+   (( segid "    " and resid 5    and name H6  ))
+      3.300     1.360     1.360 peak    66 spectrum    1 weight  0.11000E+01 volume  0.12688E-02 ppm1      4.059 ppm2      7.239 CV     1
+ ASSI {   68}
+   (( segid "    " and resid 6    and name H2' ))
+   (( segid "    " and resid 6    and name H1' ))
+      2.240     0.630     0.630 peak    68 spectrum    1 weight  0.11000E+01 volume  0.10162E-01 ppm1      4.533 ppm2      5.670 CV     1
+ ASSI {   71}
+   (( segid "    " and resid 6    and name H3' ))
+   (( segid "    " and resid 6    and name H1' ))
+      3.510     1.540     1.540 peak    71 spectrum    1 weight  0.11000E+01 volume  0.93716E-03 ppm1      4.644 ppm2      5.671 CV     1
+ ASSI {   72}
+   (( segid "    " and resid 6    and name H3' ))
+   (( segid "    " and resid 6    and name H8  ))
+      2.850     1.010     1.010 peak    72 spectrum    1 weight  0.11000E+01 volume  0.23804E-02 ppm1      4.638 ppm2      7.633 CV     1
+ ASSI {   75}
+   (( segid "    " and resid 6    and name H5'2))
+   (( segid "    " and resid 6    and name H5'1))
+      1.820     0.410     0.410 peak    75 spectrum    1 weight  0.11000E+01 volume  0.19546E-01 ppm1      4.087 ppm2      4.370 CV     1
+ ASSI {   77}
+   (( segid "    " and resid 7    and name H1' ))
+   (( segid "    " and resid 7    and name H6  ))
+      3.520     1.550     1.550 peak    77 spectrum    1 weight  0.11000E+01 volume  0.70641E-03 ppm1      5.600 ppm2      7.736 CV     1
+ ASSI {   79}
+   (( segid "    " and resid 7    and name H2' ))
+   (( segid "    " and resid 7    and name H6  ))
+      2.520     0.790     0.790 peak    79 spectrum    1 weight  0.11000E+01 volume  0.44495E-02 ppm1      4.335 ppm2      7.733 CV     1
+ ASSI {   90}
+   (( segid "    " and resid 7    and name H5'2))
+   (( segid "    " and resid 7    and name H4' ))
+      2.360     0.700     0.700 peak    90 spectrum    1 weight  0.11000E+01 volume  0.85979E-02 ppm1      3.936 ppm2      4.092 CV     1
+ ASSI {   93}
+   (( segid "    " and resid 7    and name H5'2))
+   (( segid "    " and resid 8    and name H8  ))
+      4.420     2.450     2.080 peak    93 spectrum    1 weight  0.11000E+01 volume  0.38641E-03 ppm1      3.930 ppm2      8.022 CV     1
+ ASSI {  104}
+   (( segid "    " and resid 9    and name H1' ))
+   (( segid "    " and resid 9    and name H2  ))
+      3.730     1.740     1.740 peak   104 spectrum    1 weight  0.11000E+01 volume  0.51471E-03 ppm1      6.067 ppm2      7.935 CV     1
+ ASSI {  106}
+   (( segid "    " and resid 9    and name H4' ))
+   (( segid "    " and resid 9    and name H1' ))
+      2.970     1.100     1.100 peak   106 spectrum    1 weight  0.11000E+01 volume  0.19010E-02 ppm1      4.510 ppm2      6.068 CV     1
+ ASSI {  109}
+   (( segid "    " and resid 10   and name H2' ))
+   (( segid "    " and resid 10   and name H8  ))
+      3.870     1.880     1.880 peak   109 spectrum    1 weight  0.11000E+01 volume  0.45996E-03 ppm1      4.298 ppm2      7.837 CV     1
+ ASSI {  110}
+   (( segid "    " and resid 10   and name H2' ))
+   (( segid "    " and resid 11   and name H6  ))
+      2.240     0.630     0.630 peak   110 spectrum    1 weight  0.11000E+01 volume  0.82351E-02 ppm1      4.296 ppm2      7.724 CV     1
+ ASSI {  116}
+   (( segid "    " and resid 11   and name H2' ))
+   (( segid "    " and resid 11   and name H1' ))
+      2.490     0.770     0.770 peak   116 spectrum    1 weight  0.11000E+01 volume  0.52418E-02 ppm1      4.628 ppm2      5.562 CV     1
+ ASSI {  117}
+   (( segid "    " and resid 11   and name H2' ))
+   (( segid "    " and resid 12   and name H1' ))
+      3.400     1.440     1.440 peak   117 spectrum    1 weight  0.11000E+01 volume  0.79472E-03 ppm1      4.628 ppm2      5.817 CV     1
+ ASSI {  118}
+   (( segid "    " and resid 11   and name H3' ))
+   (( segid "    " and resid 11   and name H6  ))
+      2.060     0.530     0.530 peak   118 spectrum    1 weight  0.11000E+01 volume  0.14407E-01 ppm1      4.548 ppm2      7.726 CV     1
+ ASSI {  121}
+   (( segid "    " and resid 11   and name H5  ))
+   (( segid "    " and resid 11   and name H6  ))
+      2.300     0.660     0.660 peak   121 spectrum    1 weight  0.11000E+01 volume  0.78181E-02 ppm1      5.128 ppm2      7.723 CV     1
+ ASSI {  128}
+   (( segid "    " and resid 12   and name H5'2))
+   (( segid "    " and resid 12   and name H1' ))
+      3.540     1.560     1.560 peak   128 spectrum    1 weight  0.11000E+01 volume  0.11285E-02 ppm1      4.144 ppm2      5.813 CV     1
+ ASSI {  131}
+   (( segid "    " and resid 12   and name H5'2))
+   (( segid "    " and resid 13   and name H6  ))
+      4.130     2.130     2.130 peak   131 spectrum    1 weight  0.11000E+01 volume  0.58750E-03 ppm1      4.143 ppm2      7.677 CV     1
+ ASSI {  133}
+   (( segid "    " and resid 13   and name H2' ))
+   (( segid "    " and resid 13   and name H1' ))
+      2.840     1.010     1.010 peak   133 spectrum    1 weight  0.11000E+01 volume  0.23288E-02 ppm1      4.175 ppm2      5.466 CV     1
+ ASSI {  137}
+   (( segid "    " and resid 13   and name H4' ))
+   (( segid "    " and resid 13   and name H6  ))
+      3.370     1.420     1.420 peak   137 spectrum    1 weight  0.11000E+01 volume  0.10268E-02 ppm1      4.388 ppm2      7.663 CV     1
+ ASSI {   10}
+   (( segid "    " and resid 10   and name H1' ))
+   (( segid "    " and resid 11   and name H5'1))
+      3.640     1.660     1.660 peak    10 spectrum    1 weight  0.10000E+01 volume  0.80951E-03 ppm1      4.136 ppm2      4.461 CV     1
+ ASSI {   17}
+   (( segid "    " and resid 4    and name H2' ))
+   (( segid "    " and resid 4    and name H1' ))
+      2.230     0.620     0.620 peak    17 spectrum    1 weight  0.10000E+01 volume  0.92394E-02 ppm1      4.492 ppm2      5.966 CV     1
+ OR {   17}
+   (( segid "    " and resid 4    and name H4' ))
+   (( segid "    " and resid 4    and name H1' ))
+ ASSI {   29}
+   (( segid "    " and resid 1    and name H2' ))
+   (( segid "    " and resid 2    and name H1' ))
+      3.190     1.270     1.270 peak    29 spectrum    1 weight  0.11000E+01 volume  0.11570E-02 ppm1      4.937 ppm2      5.912 CV     1
+ ASSI {   31}
+   (( segid "    " and resid 1    and name H3' ))
+   (( segid "    " and resid 1    and name H1' ))
+      3.440     1.480     1.480 peak    31 spectrum    1 weight  0.11000E+01 volume  0.90006E-03 ppm1      4.745 ppm2      5.822 CV     1
+ ASSI {   32}
+   (( segid "    " and resid 1    and name H3' ))
+   (( segid "    " and resid 2    and name H8  ))
+      3.530     1.560     1.560 peak    32 spectrum    1 weight  0.11000E+01 volume  0.88117E-03 ppm1      4.743 ppm2      7.597 CV     1
+ ASSI {   34}
+   (( segid "    " and resid 1    and name H4' ))
+   (( segid "    " and resid 2    and name H8  ))
+      3.700     1.710     1.710 peak    34 spectrum    1 weight  0.11000E+01 volume  0.77046E-03 ppm1      4.546 ppm2      7.595 CV     1
+ ASSI {   35}
+   (( segid "    " and resid 2    and name H1' ))
+   (( segid "    " and resid 3    and name H6  ))
+      4.230     2.230     2.230 peak    35 spectrum    1 weight  0.11000E+01 volume  0.42298E-03 ppm1      5.912 ppm2      7.730 CV     1
+ ASSI {   44}
+   (( segid "    " and resid 4    and name H1' ))
+   (( segid "    " and resid 4    and name H8  ))
+      3.440     1.480     1.480 peak    44 spectrum    1 weight  0.11000E+01 volume  0.74480E-03 ppm1      5.964 ppm2      8.043 CV     1
+ ASSI {   47}
+   (( segid "    " and resid 4    and name H3' ))
+   (( segid "    " and resid 5    and name H6  ))
+      3.060     1.170     1.170 peak    47 spectrum    1 weight  0.11000E+01 volume  0.13089E-02 ppm1      4.676 ppm2      7.238 CV     1
+ ASSI {   49}
+   (( segid "    " and resid 5    and name H1' ))
+   (( segid "    " and resid 4    and name H2  ))
+      3.110     1.210     1.210 peak    49 spectrum    1 weight  0.11000E+01 volume  0.13294E-02 ppm1      5.382 ppm2      7.394 CV     1
+ ASSI {   57}
+   (( segid "    " and resid 5    and name H5  ))
+   (( segid "    " and resid 4    and name H8  ))
+      3.490     1.530     1.530 peak    57 spectrum    1 weight  0.11000E+01 volume  0.69149E-03 ppm1      5.104 ppm2      8.045 CV     1
+ ASSI {   61}
+   (( segid "    " and resid 6    and name H2' ))
+   (( segid "    " and resid 6    and name H8  ))
+      2.990     1.120     1.120 peak    61 spectrum    1 weight  0.11000E+01 volume  0.18366E-02 ppm1      4.533 ppm2      7.629 CV     1
+ ASSI {   62}
+   (( segid "    " and resid 6    and name H2' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.090     1.190     1.190 peak    62 spectrum    1 weight  0.11000E+01 volume  0.14618E-02 ppm1      4.533 ppm2      8.026 CV     1
+ ASSI {   65}
+   (( segid "    " and resid 6    and name H4' ))
+   (( segid "    " and resid 6    and name H1' ))
+      3.050     1.170     1.170 peak    65 spectrum    1 weight  0.11000E+01 volume  0.14823E-02 ppm1      4.395 ppm2      5.674 CV     1
+ ASSI {   66}
+   (( segid "    " and resid 6    and name H5'1))
+   (( segid "    " and resid 7    and name H5  ))
+      3.150     1.240     1.240 peak    66 spectrum    1 weight  0.11000E+01 volume  0.20863E-02 ppm1      4.382 ppm2      5.639 CV     1
+ ASSI {   71}
+   (( segid "    " and resid 7    and name H2' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.700     1.710     1.710 peak    71 spectrum    1 weight  0.11000E+01 volume  0.72730E-03 ppm1      4.335 ppm2      8.025 CV     1
+ ASSI {   72}
+   (( segid "    " and resid 7    and name H3' ))
+   (( segid "    " and resid 7    and name H1' ))
+      3.580     1.600     1.600 peak    72 spectrum    1 weight  0.11000E+01 volume  0.68838E-03 ppm1      4.264 ppm2      5.600 CV     1
+ ASSI {   73}
+   (( segid "    " and resid 7    and name H3' ))
+   (( segid "    " and resid 7    and name H6  ))
+      3.190     1.270     1.270 peak    73 spectrum    1 weight  0.11000E+01 volume  0.17718E-02 ppm1      4.264 ppm2      7.735 CV     1
+ ASSI {   74}
+   (( segid "    " and resid 7    and name H3' ))
+   (( segid "    " and resid 8    and name H8  ))
+      2.930     1.070     1.070 peak    74 spectrum    1 weight  0.11000E+01 volume  0.23224E-02 ppm1      4.263 ppm2      8.026 CV     1
+ ASSI {   75}
+   (( segid "    " and resid 7    and name H4' ))
+   (( segid "    " and resid 7    and name H1' ))
+      3.280     1.350     1.350 peak    75 spectrum    1 weight  0.11000E+01 volume  0.92598E-03 ppm1      4.093 ppm2      5.600 CV     1
+ ASSI {   76}
+   (( segid "    " and resid 7    and name H4' ))
+   (( segid "    " and resid 7    and name H3' ))
+      2.520     0.790     0.790 peak    76 spectrum    1 weight  0.11000E+01 volume  0.43120E-02 ppm1      4.093 ppm2      4.262 CV     1
+ ASSI {   79}
+   (( segid "    " and resid 7    and name H5'1))
+   (( segid "    " and resid 7    and name H6  ))
+      3.720     1.730     1.730 peak    79 spectrum    1 weight  0.11000E+01 volume  0.13288E-02 ppm1      4.135 ppm2      7.730 CV     1
+ ASSI {   84}
+   (( segid "    " and resid 8    and name H1' ))
+   (( segid "    " and resid 8    and name H2  ))
+      3.700     1.710     1.710 peak    84 spectrum    1 weight  0.11000E+01 volume  0.48758E-03 ppm1      5.638 ppm2      8.071 CV     1
+ ASSI {   88}
+   (( segid "    " and resid 8    and name H3' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.250     1.320     1.320 peak    88 spectrum    1 weight  0.11000E+01 volume  0.11296E-02 ppm1      4.567 ppm2      8.027 CV     1
+ ASSI {   90}
+   (( segid "    " and resid 8    and name H4' ))
+   (( segid "    " and resid 8    and name H1' ))
+      3.160     1.250     1.250 peak    90 spectrum    1 weight  0.11000E+01 volume  0.12242E-02 ppm1      4.223 ppm2      5.639 CV     1
+ ASSI {   91}
+   (( segid "    " and resid 8    and name H5'1))
+   (( segid "    " and resid 8    and name H4' ))
+      2.630     0.860     0.860 peak    91 spectrum    1 weight  0.11000E+01 volume  0.38686E-02 ppm1      3.869 ppm2      4.224 CV     1
+ ASSI {   97}
+   (( segid "    " and resid 9    and name H5'2))
+   (( segid "    " and resid 9    and name H5'1))
+      1.790     0.400     0.410 peak    97 spectrum    1 weight  0.11000E+01 volume  0.23694E-01 ppm1      4.158 ppm2      4.306 CV     1
+ ASSI {  101}
+   (( segid "    " and resid 11   and name H1' ))
+   (( segid "    " and resid 11   and name H6  ))
+      3.320     1.380     1.380 peak   101 spectrum    1 weight  0.11000E+01 volume  0.86426E-03 ppm1      5.561 ppm2      7.723 CV     1
+ ASSI {  104}
+   (( segid "    " and resid 11   and name H3' ))
+   (( segid "    " and resid 12   and name H8  ))
+      3.020     1.140     1.140 peak   104 spectrum    1 weight  0.11000E+01 volume  0.16684E-02 ppm1      4.548 ppm2      7.754 CV     1
+ ASSI {  109}
+   (( segid "    " and resid 12   and name H1' ))
+   (( segid "    " and resid 4    and name H2  ))
+      3.430     1.470     1.470 peak   109 spectrum    1 weight  0.11000E+01 volume  0.75053E-03 ppm1      5.818 ppm2      7.395 CV     1
+ ASSI {  116}
+   (( segid "    " and resid 13   and name H2' ))
+   (( segid "    " and resid 13   and name H6  ))
+      3.550     1.570     1.570 peak   116 spectrum    1 weight  0.11000E+01 volume  0.63114E-03 ppm1      4.184 ppm2      7.688 CV     1
+ ASSI {  118}
+   (( segid "    " and resid 13   and name H3' ))
+   (( segid "    " and resid 13   and name H1' ))
+      3.460     1.500     1.500 peak   118 spectrum    1 weight  0.11000E+01 volume  0.85924E-03 ppm1      4.426 ppm2      5.469 CV     1
+ ASSI {  123}
+   (( segid "    " and resid 14   and name H2' ))
+   (( segid "    " and resid 14   and name H1' ))
+      3.340     1.400     1.400 peak   123 spectrum    1 weight  0.11000E+01 volume  0.84734E-03 ppm1      4.628 ppm2      6.100 CV     1
+ ASSI {  124}
+   (( segid "    " and resid 14   and name H2' ))
+   (( segid "    " and resid 14   and name H6  ))
+      3.530     1.560     1.560 peak   124 spectrum    1 weight  0.11000E+01 volume  0.69010E-03 ppm1      4.625 ppm2      7.479 CV     1
+ ASSI {   35}
+   (( segid "    " and resid 2    and name H1' ))
+   (( segid "    " and resid 2    and name H8  ))
+      3.700     1.710     1.710 peak    35 spectrum    1 weight  0.11000E+01 volume  0.75899E-03 ppm1      5.921 ppm2      7.618 CV     1
+ ASSI {   38}
+   (( segid "    " and resid 3    and name H1' ))
+   (( segid "    " and resid 2    and name H1  ))
+      4.590     2.630     1.910 peak    38 spectrum    1 weight  0.11000E+01 volume  0.23003E-03 ppm1      5.547 ppm2     13.303 CV     1
+ ASSI {   44}
+   (( segid "    " and resid 3    and name H3' ))
+   (( segid "    " and resid 3    and name H5  ))
+      3.760     1.770     1.770 peak    44 spectrum    1 weight  0.11000E+01 volume  0.20101E-02 ppm1      4.570 ppm2      5.312 CV     1
+ ASSI {   46}
+   (( segid "    " and resid 3    and name H3' ))
+   (( segid "    " and resid 4    and name H8  ))
+      2.790     0.970     0.970 peak    46 spectrum    1 weight  0.11000E+01 volume  0.39145E-02 ppm1      4.568 ppm2      8.031 CV     1
+ ASSI {   48}
+   (( segid "    " and resid 3    and name H42 ))
+   (( segid "    " and resid 3    and name H41 ))
+      1.500     0.280     0.700 peak    48 spectrum    1 weight  0.11000E+01 volume  0.22658E-01 ppm1      6.865 ppm2      8.561 CV     1
+ ASSI {   49}
+   (( segid "    " and resid 3    and name H42 ))
+   (( segid "    " and resid 12   and name H1  ))
+      2.470     0.760     0.760 peak    49 spectrum    1 weight  0.11000E+01 volume  0.19789E-02 ppm1      6.864 ppm2     12.653 CV     1
+ ASSI {   50}
+   (( segid "    " and resid 3    and name H5  ))
+   (( segid "    " and resid 3    and name H41 ))
+      2.590     0.840     0.840 peak    50 spectrum    1 weight  0.11000E+01 volume  0.24203E-02 ppm1      5.312 ppm2      8.561 CV     1
+ ASSI {   54}
+   (( segid "    " and resid 3    and name H6  ))
+   (( segid "    " and resid 4    and name H8  ))
+      4.410     2.430     2.090 peak    54 spectrum    1 weight  0.11000E+01 volume  0.52557E-03 ppm1      7.708 ppm2      8.033 CV     1
+ ASSI {   56}
+   (( segid "    " and resid 4    and name H1' ))
+   (( segid "    " and resid 5    and name H6  ))
+      5.180     3.360     1.320 peak    56 spectrum    1 weight  0.11000E+01 volume  0.38533E-03 ppm1      5.964 ppm2      7.212 CV     1
+ ASSI {   57}
+   (( segid "    " and resid 4    and name H1' ))
+   (( segid "    " and resid 12   and name H1  ))
+      4.240     2.250     2.250 peak    57 spectrum    1 weight  0.11000E+01 volume  0.33895E-03 ppm1      5.971 ppm2     12.654 CV     1
+ ASSI {   61}
+   (( segid "    " and resid 4    and name H3' ))
+   (( segid "    " and resid 4    and name H8  ))
+      2.600     0.840     0.840 peak    61 spectrum    1 weight  0.11000E+01 volume  0.52131E-02 ppm1      4.663 ppm2      8.035 CV     1
+ ASSI {   73}
+   (( segid "    " and resid 5    and name H42 ))
+   (( segid "    " and resid 5    and name H41 ))
+      1.520     0.290     0.680 peak    73 spectrum    1 weight  0.11000E+01 volume  0.21577E-01 ppm1      6.770 ppm2      8.155 CV     1
+ ASSI {   74}
+   (( segid "    " and resid 5    and name H42 ))
+   (( segid "    " and resid 10   and name H1  ))
+      2.790     0.970     0.970 peak    74 spectrum    1 weight  0.11000E+01 volume  0.97746E-03 ppm1      6.769 ppm2     12.980 CV     1
+ ASSI {   76}
+   (( segid "    " and resid 5    and name H5  ))
+   (( segid "    " and resid 5    and name H41 ))
+      2.570     0.830     0.830 peak    76 spectrum    1 weight  0.11000E+01 volume  0.24258E-02 ppm1      5.103 ppm2      8.155 CV     1
+ ASSI {   79}
+   (( segid "    " and resid 5    and name H5'1))
+   (( segid "    " and resid 5    and name H6  ))
+      3.290     1.350     1.350 peak    79 spectrum    1 weight  0.11000E+01 volume  0.11643E-02 ppm1      4.465 ppm2      7.213 CV     1
+ ASSI {   82}
+   (( segid "    " and resid 5    and name H6  ))
+   (( segid "    " and resid 6    and name H8  ))
+      4.130     2.130     2.130 peak    82 spectrum    1 weight  0.11000E+01 volume  0.56750E-03 ppm1      7.208 ppm2      7.647 CV     1
+ ASSI {   83}
+   (( segid "    " and resid 6    and name H1' ))
+   (( segid "    " and resid 6    and name H8  ))
+      3.660     1.670     1.670 peak    83 spectrum    1 weight  0.11000E+01 volume  0.83672E-03 ppm1      5.658 ppm2      7.646 CV     1
+ ASSI {   84}
+   (( segid "    " and resid 6    and name H1' ))
+   (( segid "    " and resid 10   and name H1  ))
+      4.180     2.180     2.180 peak    84 spectrum    1 weight  0.11000E+01 volume  0.24523E-03 ppm1      5.662 ppm2     12.979 CV     1
+ ASSI {   87}
+   (( segid "    " and resid 6    and name H5'2))
+   (( segid "    " and resid 6    and name H8  ))
+      3.300     1.360     1.360 peak    87 spectrum    1 weight  0.11000E+01 volume  0.16644E-02 ppm1      4.084 ppm2      7.645 CV     1
+ ASSI {   95}
+   (( segid "    " and resid 7    and name H4' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.430     1.470     1.470 peak    95 spectrum    1 weight  0.11000E+01 volume  0.94417E-03 ppm1      4.115 ppm2      8.017 CV     1
+ ASSI {   96}
+   (( segid "    " and resid 7    and name H5  ))
+   (( segid "    " and resid 7    and name H6  ))
+      2.630     0.860     0.860 peak    96 spectrum    1 weight  0.11000E+01 volume  0.46717E-02 ppm1      5.682 ppm2      7.744 CV     1
+ ASSI {  103}
+   (( segid "    " and resid 8    and name H1' ))
+   (( segid "    " and resid 9    and name H8  ))
+      4.420     2.440     2.080 peak   103 spectrum    1 weight  0.11000E+01 volume  0.38865E-03 ppm1      5.638 ppm2      8.261 CV     1
+ ASSI {  104}
+   (( segid "    " and resid 8    and name H2' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.020     1.140     1.140 peak   104 spectrum    1 weight  0.11000E+01 volume  0.22078E-02 ppm1      4.364 ppm2      8.018 CV     1
+ ASSI {  109}
+   (( segid "    " and resid 8    and name H5'1))
+   (( segid "    " and resid 8    and name H8  ))
+      3.300     1.360     1.360 peak   109 spectrum    1 weight  0.11000E+01 volume  0.11502E-02 ppm1      3.861 ppm2      8.018 CV     1
+ ASSI {  112}
+   (( segid "    " and resid 8    and name H5'2))
+   (( segid "    " and resid 8    and name H8  ))
+      4.220     2.220     2.220 peak   112 spectrum    1 weight  0.11000E+01 volume  0.46174E-03 ppm1      3.708 ppm2      8.017 CV     1
+ ASSI {  118}
+   (( segid "    " and resid 9    and name H3' ))
+   (( segid "    " and resid 10   and name H8  ))
+      3.650     1.660     1.660 peak   118 spectrum    1 weight  0.11000E+01 volume  0.77478E-03 ppm1      5.333 ppm2      7.826 CV     1
+ ASSI {  125}
+   (( segid "    " and resid 10   and name H5'2))
+   (( segid "    " and resid 10   and name H8  ))
+      2.980     1.110     1.110 peak   125 spectrum    1 weight  0.11000E+01 volume  0.22010E-02 ppm1      4.274 ppm2      7.826 CV     1
+ ASSI {  127}
+   (( segid "    " and resid 11   and name H1' ))
+   (( segid "    " and resid 12   and name H8  ))
+      3.940     1.940     1.940 peak   127 spectrum    1 weight  0.11000E+01 volume  0.16402E-02 ppm1      5.564 ppm2      7.749 CV     1
+ ASSI {  129}
+   (( segid "    " and resid 11   and name H5'1))
+   (( segid "    " and resid 11   and name H6  ))
+      2.740     0.940     0.940 peak   129 spectrum    1 weight  0.11000E+01 volume  0.32110E-02 ppm1      4.467 ppm2      7.705 CV     1
+ ASSI {  135}
+   (( segid "    " and resid 12   and name H5'1))
+   (( segid "    " and resid 13   and name H5  ))
+      4.750     2.820     1.750 peak   135 spectrum    1 weight  0.11000E+01 volume  0.57818E-03 ppm1      4.534 ppm2      5.263 CV     1
+ ASSI {  137}
+   (( segid "    " and resid 13   and name H1' ))
+   (( segid "    " and resid 12   and name H1  ))
+      4.290     2.300     2.210 peak   137 spectrum    1 weight  0.11000E+01 volume  0.24861E-03 ppm1      5.470 ppm2     12.650 CV     1
+ ASSI {  141}
+   (( segid "    " and resid 13   and name H2' ))
+   (( segid "    " and resid 14   and name H6  ))
+      2.670     0.890     0.890 peak   141 spectrum    1 weight  0.11000E+01 volume  0.43109E-02 ppm1      4.185 ppm2      7.476 CV     1
+ ASSI {  143}
+   (( segid "    " and resid 13   and name H3' ))
+   (( segid "    " and resid 13   and name H6  ))
+      2.570     0.830     0.830 peak   143 spectrum    1 weight  0.11000E+01 volume  0.54395E-02 ppm1      4.421 ppm2      7.634 CV     1
+ ASSI {  147}
+   (( segid "    " and resid 13   and name H42 ))
+   (( segid "    " and resid 2    and name H1  ))
+      2.680     0.900     0.900 peak   147 spectrum    1 weight  0.11000E+01 volume  0.12358E-02 ppm1      6.868 ppm2     13.303 CV     1
+ ASSI {  148}
+   (( segid "    " and resid 13   and name H42 ))
+   (( segid "    " and resid 13   and name H41 ))
+      1.640     0.340     0.560 peak   148 spectrum    1 weight  0.11000E+01 volume  0.14067E-01 ppm1      6.868 ppm2      8.505 CV     1
+ ASSI {  150}
+   (( segid "    " and resid 13   and name H5  ))
+   (( segid "    " and resid 12   and name H8  ))
+      3.750     1.760     1.760 peak   150 spectrum    1 weight  0.11000E+01 volume  0.73097E-03 ppm1      5.267 ppm2      7.749 CV     1
+ ASSI {  151}
+   (( segid "    " and resid 13   and name H5  ))
+   (( segid "    " and resid 13   and name H41 ))
+      2.790     0.970     0.970 peak   151 spectrum    1 weight  0.11000E+01 volume  0.15942E-02 ppm1      5.265 ppm2      8.504 CV     1
+ ASSI {  156}
+   (( segid "    " and resid 14   and name H3' ))
+   (( segid "    " and resid 14   and name H6  ))
+      3.310     1.370     1.370 peak   156 spectrum    1 weight  0.11000E+01 volume  0.11763E-02 ppm1      4.942 ppm2      7.477 CV     1
+ ASSI {  157}
+   (( segid "    " and resid 14   and name H4' ))
+   (( segid "    " and resid 14   and name H1' ))
+      3.260     1.330     1.330 peak   157 spectrum    1 weight  0.11000E+01 volume  0.15641E-02 ppm1      4.413 ppm2      6.103 CV     1
+ ASSI {  160}
+   (( segid "    " and resid 14   and name H5  ))
+   (( segid "    " and resid 14   and name H41 ))
+      3.120     1.220     1.220 peak   160 spectrum    1 weight  0.11000E+01 volume  0.80102E-03 ppm1      5.553 ppm2      8.533 CV     1
+ ASSI {  164}
+   (( segid "    " and resid 14   and name H5'1))
+   (( segid "    " and resid 14   and name H6  ))
+      3.440     1.480     1.480 peak   164 spectrum    1 weight  0.11000E+01 volume  0.98127E-03 ppm1      4.508 ppm2      7.477 CV     1
+ ASSI {   14}
+   (( segid "    " and resid 10   and name H3' ))
+   (( segid "    " and resid 11   and name H6  ))
+      3.010     1.140     1.140 peak    14 spectrum    1 weight  0.10000E+01 volume  0.19563E-02 ppm1      4.218 ppm2      7.701 CV     1
+ ASSI {   16}
+   (( segid "    " and resid 1    and name H1' ))
+   (( segid "    " and resid 1    and name H8  ))
+      3.650     1.670     1.670 peak    16 spectrum    1 weight  0.11000E+01 volume  0.67474E-03 ppm1      5.837 ppm2      8.148 CV     1
+ ASSI {   17}
+   (( segid "    " and resid 1    and name H1' ))
+   (( segid "    " and resid 2    and name H8  ))
+      4.010     2.010     2.010 peak    17 spectrum    1 weight  0.11000E+01 volume  0.11685E-02 ppm1      5.838 ppm2      7.619 CV     1
+ ASSI {   19}
+   (( segid "    " and resid 1    and name H2' ))
+   (( segid "    " and resid 1    and name H8  ))
+      3.110     1.210     1.210 peak    19 spectrum    1 weight  0.11000E+01 volume  0.19414E-02 ppm1      4.953 ppm2      8.147 CV     1
+ ASSI {   21}
+   (( segid "    " and resid 1    and name H3' ))
+   (( segid "    " and resid 1    and name H8  ))
+      2.820     1.000     1.000 peak    21 spectrum    1 weight  0.11000E+01 volume  0.29442E-02 ppm1      4.736 ppm2      8.153 CV     1
+ ASSI {   23}
+   (( segid "    " and resid 2    and name H5'2))
+   (( segid "    " and resid 2    and name H8  ))
+      3.040     1.160     1.160 peak    23 spectrum    1 weight  0.11000E+01 volume  0.19890E-02 ppm1      4.283 ppm2      7.619 CV     1
+ ASSI {   24}
+   (( segid "    " and resid 3    and name H1' ))
+   (( segid "    " and resid 3    and name H6  ))
+      3.070     1.180     1.180 peak    24 spectrum    1 weight  0.11000E+01 volume  0.17462E-02 ppm1      5.551 ppm2      7.707 CV     1
+ ASSI {   26}
+   (( segid "    " and resid 3    and name H2' ))
+   (( segid "    " and resid 4    and name H1' ))
+      2.540     0.810     0.810 peak    26 spectrum    1 weight  0.11000E+01 volume  0.52084E-02 ppm1      4.517 ppm2      5.968 CV     1
+ ASSI {   28}
+   (( segid "    " and resid 3    and name H3' ))
+   (( segid "    " and resid 3    and name H6  ))
+      2.160     0.580     0.580 peak    28 spectrum    1 weight  0.11000E+01 volume  0.12493E-01 ppm1      4.567 ppm2      7.710 CV     1
+ ASSI {   30}
+   (( segid "    " and resid 3    and name H4' ))
+   (( segid "    " and resid 3    and name H6  ))
+      2.990     1.120     1.120 peak    30 spectrum    1 weight  0.11000E+01 volume  0.25638E-02 ppm1      4.468 ppm2      7.706 CV     1
+ ASSI {   31}
+   (( segid "    " and resid 3    and name H41 ))
+   (( segid "    " and resid 12   and name H1  ))
+      3.010     1.130     1.130 peak    31 spectrum    1 weight  0.11000E+01 volume  0.22793E-02 ppm1      8.561 ppm2     12.653 CV     1
+ ASSI {   35}
+   (( segid "    " and resid 3    and name H5  ))
+   (( segid "    " and resid 3    and name H42 ))
+      3.230     1.310     1.310 peak    35 spectrum    1 weight  0.11000E+01 volume  0.28998E-02 ppm1      5.312 ppm2      6.864 CV     1
+ ASSI {   37}
+   (( segid "    " and resid 3    and name H5'2))
+   (( segid "    " and resid 3    and name H6  ))
+      3.220     1.290     1.290 peak    37 spectrum    1 weight  0.11000E+01 volume  0.18481E-02 ppm1      4.145 ppm2      7.711 CV     1
+ ASSI {   39}
+   (( segid "    " and resid 4    and name H2  ))
+   (( segid "    " and resid 11   and name H3  ))
+      3.050     1.160     1.160 peak    39 spectrum    1 weight  0.11000E+01 volume  0.11683E-02 ppm1      7.390 ppm2     13.639 CV     1
+ ASSI {   42}
+   (( segid "    " and resid 4    and name H5'1))
+   (( segid "    " and resid 5    and name H41 ))
+      3.960     1.960     1.960 peak    42 spectrum    1 weight  0.11000E+01 volume  0.46943E-03 ppm1      4.572 ppm2      8.147 CV     1
+ ASSI {   43}
+   (( segid "    " and resid 4    and name H5'2))
+   (( segid "    " and resid 4    and name H8  ))
+      3.110     1.210     1.210 peak    43 spectrum    1 weight  0.11000E+01 volume  0.16029E-02 ppm1      4.160 ppm2      8.035 CV     1
+ ASSI {   48}
+   (( segid "    " and resid 5    and name H2' ))
+   (( segid "    " and resid 6    and name H8  ))
+      2.710     0.920     0.920 peak    48 spectrum    1 weight  0.11000E+01 volume  0.35658E-02 ppm1      4.357 ppm2      7.645 CV     1
+ ASSI {   51}
+   (( segid "    " and resid 5    and name H3' ))
+   (( segid "    " and resid 6    and name H8  ))
+      2.970     1.100     1.100 peak    51 spectrum    1 weight  0.11000E+01 volume  0.23337E-02 ppm1      4.264 ppm2      7.646 CV     1
+ ASSI {   52}
+   (( segid "    " and resid 5    and name H41 ))
+   (( segid "    " and resid 10   and name H1  ))
+      3.250     1.320     1.320 peak    52 spectrum    1 weight  0.11000E+01 volume  0.14627E-02 ppm1      8.155 ppm2     12.979 CV     1
+ ASSI {   57}
+   (( segid "    " and resid 5    and name H5  ))
+   (( segid "    " and resid 5    and name H42 ))
+      3.120     1.220     1.220 peak    57 spectrum    1 weight  0.11000E+01 volume  0.35211E-02 ppm1      5.103 ppm2      6.769 CV     1
+ ASSI {   71}
+   (( segid "    " and resid 7    and name H5'2))
+   (( segid "    " and resid 7    and name H3' ))
+      2.700     0.910     0.910 peak    71 spectrum    1 weight  0.11000E+01 volume  0.41740E-02 ppm1      3.959 ppm2      4.279 CV     1
+ ASSI {   72}
+   (( segid "    " and resid 7    and name H5'2))
+   (( segid "    " and resid 7    and name H5'1))
+      1.800     0.400     0.400 peak    72 spectrum    1 weight  0.11000E+01 volume  0.22773E-01 ppm1      3.954 ppm2      4.123 CV     1
+ ASSI {   73}
+   (( segid "    " and resid 7    and name H5'2))
+   (( segid "    " and resid 7    and name H6  ))
+      3.280     1.340     1.340 peak    73 spectrum    1 weight  0.11000E+01 volume  0.81133E-03 ppm1      3.954 ppm2      7.745 CV     1
+ ASSI {   75}
+   (( segid "    " and resid 8    and name H1' ))
+   (( segid "    " and resid 8    and name H8  ))
+      3.410     1.450     1.450 peak    75 spectrum    1 weight  0.11000E+01 volume  0.97160E-03 ppm1      5.635 ppm2      8.018 CV     1
+ ASSI {   76}
+   (( segid "    " and resid 8    and name H2' ))
+   (( segid "    " and resid 8    and name H1' ))
+      2.840     1.010     1.010 peak    76 spectrum    1 weight  0.11000E+01 volume  0.29017E-02 ppm1      4.355 ppm2      5.632 CV     1
+ ASSI {   78}
+   (( segid "    " and resid 8    and name H2' ))
+   (( segid "    " and resid 9    and name H8  ))
+      2.870     1.030     1.030 peak    78 spectrum    1 weight  0.11000E+01 volume  0.26768E-02 ppm1      4.369 ppm2      8.261 CV     1
+ ASSI {   79}
+   (( segid "    " and resid 8    and name H3' ))
+   (( segid "    " and resid 9    and name H8  ))
+      3.110     1.210     1.210 peak    79 spectrum    1 weight  0.11000E+01 volume  0.17764E-02 ppm1      4.566 ppm2      8.261 CV     1
+ ASSI {   82}
+   (( segid "    " and resid 8    and name H5'2))
+   (( segid "    " and resid 8    and name H4' ))
+      2.740     0.940     0.940 peak    82 spectrum    1 weight  0.11000E+01 volume  0.30780E-02 ppm1      3.692 ppm2      4.209 CV     1
+ ASSI {   84}
+   (( segid "    " and resid 8    and name H8  ))
+   (( segid "    " and resid 9    and name H8  ))
+      3.840     1.840     1.840 peak    84 spectrum    1 weight  0.11000E+01 volume  0.57855E-03 ppm1      8.034 ppm2      8.259 CV     1
+ ASSI {   85}
+   (( segid "    " and resid 9    and name H1' ))
+   (( segid "    " and resid 9    and name H8  ))
+      2.730     0.930     0.930 peak    85 spectrum    1 weight  0.11000E+01 volume  0.38583E-02 ppm1      6.087 ppm2      8.261 CV     1
+ ASSI {   86}
+   (( segid "    " and resid 9    and name H2' ))
+   (( segid "    " and resid 9    and name H1' ))
+      2.650     0.880     0.880 peak    86 spectrum    1 weight  0.11000E+01 volume  0.43632E-02 ppm1      4.697 ppm2      6.086 CV     1
+ ASSI {   87}
+   (( segid "    " and resid 9    and name H2' ))
+   (( segid "    " and resid 9    and name H8  ))
+      3.190     1.270     1.270 peak    87 spectrum    1 weight  0.11000E+01 volume  0.14366E-02 ppm1      4.691 ppm2      8.261 CV     1
+ ASSI {   88}
+   (( segid "    " and resid 9    and name H3' ))
+   (( segid "    " and resid 9    and name H8  ))
+      3.250     1.320     1.320 peak    88 spectrum    1 weight  0.11000E+01 volume  0.13054E-02 ppm1      5.335 ppm2      8.261 CV     1
+ ASSI {   90}
+   (( segid "    " and resid 10   and name H2' ))
+   (( segid "    " and resid 11   and name H1' ))
+      3.150     1.240     1.240 peak    90 spectrum    1 weight  0.11000E+01 volume  0.15268E-02 ppm1      4.321 ppm2      5.561 CV     1
+ ASSI {   92}
+   (( segid "    " and resid 10   and name H3' ))
+   (( segid "    " and resid 10   and name H8  ))
+      3.040     1.160     1.160 peak    92 spectrum    1 weight  0.11000E+01 volume  0.19715E-02 ppm1      4.218 ppm2      7.826 CV     1
+ ASSI {   93}
+   (( segid "    " and resid 10   and name H5'1))
+   (( segid "    " and resid 10   and name H8  ))
+      2.880     1.040     1.040 peak    93 spectrum    1 weight  0.11000E+01 volume  0.45133E-02 ppm1      4.353 ppm2      7.826 CV     1
+ ASSI {   95}
+   (( segid "    " and resid 10   and name H8  ))
+   (( segid "    " and resid 9    and name H8  ))
+      3.650     1.670     1.670 peak    95 spectrum    1 weight  0.11000E+01 volume  0.37801E-03 ppm1      7.830 ppm2      8.260 CV     1
+ ASSI {   98}
+   (( segid "    " and resid 11   and name H5'2))
+   (( segid "    " and resid 11   and name H6  ))
+      3.380     1.430     1.430 peak    98 spectrum    1 weight  0.11000E+01 volume  0.15745E-02 ppm1      4.078 ppm2      7.703 CV     1
+ ASSI {  100}
+   (( segid "    " and resid 12   and name H1' ))
+   (( segid "    " and resid 12   and name H8  ))
+      3.370     1.420     1.420 peak   100 spectrum    1 weight  0.11000E+01 volume  0.10572E-02 ppm1      5.824 ppm2      7.750 CV     1
+ ASSI {  101}
+   (( segid "    " and resid 12   and name H3' ))
+   (( segid "    " and resid 12   and name H8  ))
+      2.200     0.610     0.610 peak   101 spectrum    1 weight  0.11000E+01 volume  0.11903E-01 ppm1      4.647 ppm2      7.750 CV     1
+ ASSI {  102}
+   (( segid "    " and resid 12   and name H5'1))
+   (( segid "    " and resid 12   and name H8  ))
+      2.830     1.000     1.000 peak   102 spectrum    1 weight  0.11000E+01 volume  0.37127E-02 ppm1      4.535 ppm2      7.751 CV     1
+ ASSI {  103}
+   (( segid "    " and resid 12   and name H5'2))
+   (( segid "    " and resid 12   and name H8  ))
+      2.910     1.060     1.060 peak   103 spectrum    1 weight  0.11000E+01 volume  0.24384E-02 ppm1      4.147 ppm2      7.749 CV     1
+ ASSI {  104}
+   (( segid "    " and resid 13   and name H1' ))
+   (( segid "    " and resid 13   and name H6  ))
+      3.390     1.440     1.440 peak   104 spectrum    1 weight  0.11000E+01 volume  0.96831E-03 ppm1      5.470 ppm2      7.634 CV     1
+ ASSI {  109}
+   (( segid "    " and resid 13   and name H3' ))
+   (( segid "    " and resid 14   and name H5  ))
+      2.820     0.990     0.990 peak   109 spectrum    1 weight  0.11000E+01 volume  0.30125E-02 ppm1      4.432 ppm2      5.558 CV     1
+ ASSI {  110}
+   (( segid "    " and resid 13   and name H4' ))
+   (( segid "    " and resid 13   and name H1' ))
+      3.080     1.180     1.180 peak   110 spectrum    1 weight  0.11000E+01 volume  0.17099E-02 ppm1      4.391 ppm2      5.469 CV     1
+ ASSI {  111}
+   (( segid "    " and resid 13   and name H41 ))
+   (( segid "    " and resid 2    and name H1  ))
+      3.300     1.360     1.360 peak   111 spectrum    1 weight  0.11000E+01 volume  0.13247E-02 ppm1      8.505 ppm2     13.301 CV     1
+ ASSI {  116}
+   (( segid "    " and resid 13   and name H5  ))
+   (( segid "    " and resid 13   and name H42 ))
+      3.170     1.260     1.260 peak   116 spectrum    1 weight  0.11000E+01 volume  0.32523E-02 ppm1      5.264 ppm2      6.868 CV     1
+ ASSI {  117}
+   (( segid "    " and resid 13   and name H5  ))
+   (( segid "    " and resid 13   and name H6  ))
+      2.400     0.720     0.720 peak   117 spectrum    1 weight  0.11000E+01 volume  0.68834E-02 ppm1      5.265 ppm2      7.632 CV     1
+ ASSI {  118}
+   (( segid "    " and resid 13   and name H5'2))
+   (( segid "    " and resid 13   and name H6  ))
+      3.470     1.510     1.510 peak   118 spectrum    1 weight  0.11000E+01 volume  0.11526E-02 ppm1      4.054 ppm2      7.636 CV     1
+ ASSI {  119}
+   (( segid "    " and resid 14   and name H1' ))
+   (( segid "    " and resid 14   and name H6  ))
+      3.760     1.770     1.770 peak   119 spectrum    1 weight  0.11000E+01 volume  0.52408E-03 ppm1      6.104 ppm2      7.475 CV     1
+ ASSI {  122}
+   (( segid "    " and resid 14   and name H4' ))
+   (( segid "    " and resid 14   and name H6  ))
+      3.400     1.440     1.440 peak   122 spectrum    1 weight  0.11000E+01 volume  0.11336E-02 ppm1      4.418 ppm2      7.476 CV     1
+ ASSI {  123}
+   (( segid "    " and resid 14   and name H42 ))
+   (( segid "    " and resid 14   and name H41 ))
+      1.970     0.490     0.490 peak   123 spectrum    1 weight  0.11000E+01 volume  0.55969E-02 ppm1      7.040 ppm2      8.532 CV     1
+ ASSI {  124}
+   (( segid "    " and resid 14   and name H5  ))
+   (( segid "    " and resid 13   and name H6  ))
+      3.520     1.550     1.550 peak   124 spectrum    1 weight  0.11000E+01 volume  0.81619E-03 ppm1      5.552 ppm2      7.631 CV     1
+ ASSI {  126}
+   (( segid "    " and resid 14   and name H5  ))
+   (( segid "    " and resid 14   and name H42 ))
+      3.570     1.590     1.590 peak   126 spectrum    1 weight  0.11000E+01 volume  0.15742E-02 ppm1      5.553 ppm2      7.039 CV     1
+ ASSI {  127}
+   (( segid "    " and resid 14   and name H5  ))
+   (( segid "    " and resid 14   and name H6  ))
+      2.470     0.760     0.760 peak   127 spectrum    1 weight  0.11000E+01 volume  0.58385E-02 ppm1      5.553 ppm2      7.477 CV     1
+ ASSI {  129}
+   (( segid "    " and resid 14   and name H5'2))
+   (( segid "    " and resid 14   and name H6  ))
+      3.890     1.890     1.890 peak   129 spectrum    1 weight  0.11000E+01 volume  0.55390E-03 ppm1      4.096 ppm2      7.478 CV     1
