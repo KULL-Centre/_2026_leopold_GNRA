@@ -1,0 +1,3 @@
+HCCH doesn't matter, not relevant for calculation
+HCN 950 MHz = 22.3 T
+HCP 700 MHz = 16.44 T

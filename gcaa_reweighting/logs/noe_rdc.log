@@ -1,0 +1,227 @@
+# Reading NOE data 
+# Reading 78 experimental data from bme_reweight/exp_noe_loop_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_noe_loop_bme.dat 
+# Using power_6 averaging 
+Initialized uniform weights 20100
+# Using no scaling 
+CHI2: 0.21984 
+RMSD: 0.00615 
+VIOLATIONS: 0 
+# Reading RDC data 
+# Reading 37 experimental data from bme_reweight/exp_rdc_bme.dat 
+# Reading 20100 calculated samples from bme_reweight/calc_rdc_bme.dat 
+# Using linear averaging 
+# Slope=  0.5969; Offset=  0.0000; r2=  0.6765 
+CHI2: 7.19782 
+RMSD: 4.02431 
+VIOLATIONS: 8 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=0.200000 
+CHI2 before optimization:   2.4649 
+Execution time: 1.72 seconds
+Minimization using L-BFGS-B successful (iterations:102)
+CHI2 after optimization:   0.1714 
+Fraction of effective frames:   0.0013 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=0.297470 
+CHI2 before optimization:   2.4649 
+Execution time: 1.37 seconds
+Minimization using L-BFGS-B successful (iterations:86)
+CHI2 after optimization:   0.1718 
+Fraction of effective frames:   0.0014 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=0.442443 
+CHI2 before optimization:   2.4649 
+Execution time: 1.00 seconds
+Minimization using L-BFGS-B successful (iterations:65)
+CHI2 after optimization:   0.1725 
+Fraction of effective frames:   0.0015 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=0.658069 
+CHI2 before optimization:   2.4649 
+Execution time: 0.87 seconds
+Minimization using L-BFGS-B successful (iterations:54)
+CHI2 after optimization:   0.1739 
+Fraction of effective frames:   0.0018 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=0.978780 
+CHI2 before optimization:   2.4649 
+Execution time: 0.67 seconds
+Minimization using L-BFGS-B successful (iterations:40)
+CHI2 after optimization:   0.1773 
+Fraction of effective frames:   0.0023 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=1.455791 
+CHI2 before optimization:   2.4649 
+Execution time: 0.55 seconds
+Minimization using L-BFGS-B successful (iterations:33)
+CHI2 after optimization:   0.1848 
+Fraction of effective frames:   0.0032 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=2.165273 
+CHI2 before optimization:   2.4649 
+Execution time: 0.55 seconds
+Minimization using L-BFGS-B successful (iterations:27)
+CHI2 after optimization:   0.2004 
+Fraction of effective frames:   0.0053 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=3.220524 
+CHI2 before optimization:   2.4649 
+Execution time: 0.53 seconds
+Minimization using L-BFGS-B successful (iterations:24)
+CHI2 after optimization:   0.2295 
+Fraction of effective frames:   0.0100 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=4.790053 
+CHI2 before optimization:   2.4649 
+Execution time: 0.53 seconds
+Minimization using L-BFGS-B successful (iterations:23)
+CHI2 after optimization:   0.2772 
+Fraction of effective frames:   0.0200 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=7.124496 
+CHI2 before optimization:   2.4649 
+Execution time: 0.56 seconds
+Minimization using L-BFGS-B successful (iterations:21)
+CHI2 after optimization:   0.3490 
+Fraction of effective frames:   0.0403 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=10.596634 
+CHI2 before optimization:   2.4649 
+Execution time: 0.55 seconds
+Minimization using L-BFGS-B successful (iterations:22)
+CHI2 after optimization:   0.4516 
+Fraction of effective frames:   0.0793 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=15.760926 
+CHI2 before optimization:   2.4649 
+Execution time: 0.48 seconds
+Minimization using L-BFGS-B successful (iterations:21)
+CHI2 after optimization:   0.5911 
+Fraction of effective frames:   0.1471 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=23.442046 
+CHI2 before optimization:   2.4649 
+Execution time: 0.48 seconds
+Minimization using L-BFGS-B successful (iterations:22)
+CHI2 after optimization:   0.7745 
+Fraction of effective frames:   0.2545 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=34.866576 
+CHI2 before optimization:   2.4649 
+Execution time: 0.50 seconds
+Minimization using L-BFGS-B successful (iterations:24)
+CHI2 after optimization:   1.0052 
+Fraction of effective frames:   0.4048 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=51.858876 
+CHI2 before optimization:   2.4649 
+Execution time: 0.42 seconds
+Minimization using L-BFGS-B successful (iterations:24)
+CHI2 after optimization:   1.2697 
+Fraction of effective frames:   0.5795 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=77.132408 
+CHI2 before optimization:   2.4649 
+Execution time: 0.37 seconds
+Minimization using L-BFGS-B successful (iterations:22)
+CHI2 after optimization:   1.5342 
+Fraction of effective frames:   0.7387 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=114.723050 
+CHI2 before optimization:   2.4649 
+Execution time: 0.42 seconds
+Minimization using L-BFGS-B successful (iterations:24)
+CHI2 after optimization:   1.7679 
+Fraction of effective frames:   0.8536 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=170.633570 
+CHI2 before optimization:   2.4649 
+Execution time: 0.45 seconds
+Minimization using L-BFGS-B successful (iterations:26)
+CHI2 after optimization:   1.9565 
+Fraction of effective frames:   0.9234 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=253.792201 
+CHI2 before optimization:   2.4649 
+Execution time: 0.43 seconds
+Minimization using L-BFGS-B successful (iterations:26)
+CHI2 after optimization:   2.1010 
+Fraction of effective frames:   0.9617 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=377.478364 
+CHI2 before optimization:   2.4649 
+Execution time: 0.45 seconds
+Minimization using L-BFGS-B successful (iterations:26)
+CHI2 after optimization:   2.2083 
+Fraction of effective frames:   0.9814 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=561.443241 
+CHI2 before optimization:   2.4649 
+Execution time: 0.42 seconds
+Minimization using L-BFGS-B successful (iterations:25)
+CHI2 after optimization:   2.2860 
+Fraction of effective frames:   0.9911 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=835.063787 
+CHI2 before optimization:   2.4649 
+Execution time: 0.41 seconds
+Minimization using L-BFGS-B successful (iterations:24)
+CHI2 after optimization:   2.3414 
+Fraction of effective frames:   0.9958 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=1242.033884 
+CHI2 before optimization:   2.4649 
+Execution time: 0.40 seconds
+Minimization using L-BFGS-B successful (iterations:20)
+CHI2 after optimization:   2.3804 
+Fraction of effective frames:   0.9981 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=1847.341714 
+CHI2 before optimization:   2.4649 
+Execution time: 0.32 seconds
+Minimization using L-BFGS-B successful (iterations:18)
+CHI2 after optimization:   2.4074 
+Fraction of effective frames:   0.9991 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=2747.647592 
+CHI2 before optimization:   2.4649 
+Execution time: 0.34 seconds
+Minimization using L-BFGS-B successful (iterations:17)
+CHI2 after optimization:   2.4260 
+Fraction of effective frames:   0.9996 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=4086.719436 
+CHI2 before optimization:   2.4649 
+Execution time: 0.28 seconds
+Minimization using L-BFGS-B successful (iterations:15)
+CHI2 after optimization:   2.4386 
+Fraction of effective frames:   0.9998 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=6078.390765 
+CHI2 before optimization:   2.4649 
+Execution time: 0.27 seconds
+Minimization using L-BFGS-B successful (iterations:13)
+CHI2 after optimization:   2.4471 
+Fraction of effective frames:   0.9999 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=9040.707313 
+CHI2 before optimization:   2.4649 
+Execution time: 0.27 seconds
+Minimization using L-BFGS-B successful (iterations:13)
+CHI2 after optimization:   2.4529 
+Fraction of effective frames:   1.0000 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=13446.715073 
+CHI2 before optimization:   2.4649 
+Execution time: 0.21 seconds
+Minimization using L-BFGS-B successful (iterations:10)
+CHI2 after optimization:   2.4570 
+Fraction of effective frames:   1.0000 
+Lagrange multipliers initialized from zero
+Optimizing 115 data and 20100 samples. Theta=20000.000000 
+CHI2 before optimization:   2.4649 
+Execution time: 0.20 seconds
+Minimization using L-BFGS-B successful (iterations:9)
+CHI2 after optimization:   2.4596 
+Fraction of effective frames:   1.0000 
